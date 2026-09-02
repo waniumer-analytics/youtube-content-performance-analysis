@@ -19,7 +19,7 @@ This project analyzes Netflix YouTube video performance data to identify the key
 
 
 
-                                                         # Business Objective
+  ## Business Objective
 
 1. Which content type generates the highest views?
 2. Which videos perform exceptionally well?
@@ -31,19 +31,20 @@ This project analyzes Netflix YouTube video performance data to identify the key
 8. Which keywords are most frequently used in titles and tags?
 9. How can metadata and publishing strategy be optimized?
 
-                                                   # Key Performance Indicators
 
-   | KPI             |          Value |
-| --------------- | -------------: |
-| Total Videos    |             5K |
-| Total Views     |     11 Billion |
-| Average Views   |   2.15 Million |
-| Engagement Rate |          1.25% |
-| Total Comments  |   3.40 Million |
-| Total Likes     | 136.98 Million |
+   ## Key Performance Indicators
 
 
-                                                      # Tools & Technologies
+1.  Total Videos   :   5K .
+2.  Total Views    :   11 Billion .
+3. Average Views   :   2.15 Million .
+4. Engagement Rate :          1.25% .
+5. Total Comments  :   3.40 Million .
+6. Total Likes     : 136.98 Million .
+
+
+## Tools & Technologies
+
 1. Microsoft Power BI
 2. Power Query
 3. DAX
