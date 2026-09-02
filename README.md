@@ -56,4 +56,4 @@ This project analyzes Netflix YouTube video performance data to identify the key
 
 # Linkedin:- 
 
-# Power Bi :- https://app.powerbi.com/groups/me/reports/09d6a0bf-a2aa-47b8-95fd-8f5fe029c0c1/0073514c6b1b3da6e713?experience=power-bi 
+# Power Bi :- https://app.powerbi.com/groups/me/reports/075c8b00-047e-44ef-ba46-b5254a29e9c8/9bba990c9e03c6cc3ad4?experience=power-bi 
